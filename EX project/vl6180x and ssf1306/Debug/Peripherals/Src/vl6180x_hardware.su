@@ -1,0 +1,4 @@
+../Peripherals/Src/vl6180x_hardware.c:5:6:i2c_I2C1_GPIO_config	32	static
+../Peripherals/Src/vl6180x_hardware.c:17:6:i2c_config	16	static
+../Peripherals/Src/vl6180x_hardware.c:39:6:vl6180x_writebyte	32	static
+../Peripherals/Src/vl6180x_hardware.c:49:9:vl6180x_randomread	32	static

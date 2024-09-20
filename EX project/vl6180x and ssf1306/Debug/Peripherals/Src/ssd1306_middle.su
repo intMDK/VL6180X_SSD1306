@@ -1,0 +1,13 @@
+../Peripherals/Src/ssd1306_middle.c:13:6:SSD1306_setting	8	static
+../Peripherals/Src/ssd1306_middle.c:92:6:ssd1306_init	8	static
+../Peripherals/Src/ssd1306_middle.c:106:6:SSD1306_FillScreen	24	static
+../Peripherals/Src/ssd1306_middle.c:124:6:SSD1306_SetColumnAddress	24	static
+../Peripherals/Src/ssd1306_middle.c:130:6:SSD1306_SetPageAddress	24	static
+../Peripherals/Src/ssd1306_middle.c:135:6:SSD1306_SendData	32	static
+../Peripherals/Src/ssd1306_middle.c:143:6:gotoxy	16	static
+../Peripherals/Src/ssd1306_middle.c:149:6:SSD1306_UpdateScreen	16	static
+../Peripherals/Src/ssd1306_middle.c:173:6:SSD1306_SetPixel	24	static
+../Peripherals/Src/ssd1306_middle.c:190:6:SSD1306_Putc	32	static
+../Peripherals/Src/ssd1306_middle.c:212:6:SSD1306_Puts	24	static
+../Peripherals/Src/ssd1306_middle.c:227:6:SSD1306_Srectangle	32	static
+../Peripherals/Src/ssd1306_middle.c:244:6:SSD1306_SendCommand	24	static

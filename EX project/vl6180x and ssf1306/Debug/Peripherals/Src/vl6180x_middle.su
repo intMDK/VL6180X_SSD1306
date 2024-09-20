@@ -1,0 +1,8 @@
+../Peripherals/Src/vl6180x_middle.c:5:6:vl6180x_ALS_start	16	static
+../Peripherals/Src/vl6180x_middle.c:18:10:vl6180x_ALS_read	16	static
+../Peripherals/Src/vl6180x_middle.c:50:6:VL6180X_SetAlsIntegrationTime	24	static
+../Peripherals/Src/vl6180x_middle.c:61:9:vl6180_Als_ReadGain	64	static
+../Peripherals/Src/vl6180x_middle.c:73:6:vl6180x_TOF_start	16	static
+../Peripherals/Src/vl6180x_middle.c:84:9:vl6180x_TOF_read	16	static
+../Peripherals/Src/vl6180x_middle.c:112:6:vl6180x_setting	8	static
+../Peripherals/Src/vl6180x_middle.c:158:6:vl6180x_init	16	static

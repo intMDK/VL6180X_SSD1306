@@ -1,0 +1,2 @@
+../Peripherals/Src/ssd1306_hardware.c:7:6:i2c_I2C2_GPIO_config	32	static
+../Peripherals/Src/ssd1306_hardware.c:19:6:i2c_I2C2_config	16	static
