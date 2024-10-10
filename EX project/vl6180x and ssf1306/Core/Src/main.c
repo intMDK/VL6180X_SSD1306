@@ -9,7 +9,7 @@
 
 uint16_t als_result;
 uint8_t tof_result;
-char str[50];
+char str[128];
 int main(void)
 {
 
